@@ -27,3 +27,10 @@ Scalability is another important factor. As the number of users increases, the s
 Real-time chat applications are widely used in various domains. In business environments, they improve team collaboration and productivity. In customer service, live chat support helps organizations respond quickly to customer queries. In educational platforms, real-time chat enables students and instructors to communicate instantly during online classes.
 
 In conclusion, a Real-Time Chat Application is a powerful communication tool that facilitates instant and interactive messaging. By leveraging modern web technologies, secure authentication systems, and scalable infrastructure, developers can create efficient and reliable chat systems. As digital communication continues to grow, real-time chat applications play a vital role in connecting people across the world instantly and effectively.
+
+OUTPUT:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/65576d7d-a12f-4006-a35f-d739770b3d4b" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b1c614b2-050e-4c23-87ab-dcc17281e89b" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4e0dccfe-f3f3-43c2-b836-6fa699015cde" />
